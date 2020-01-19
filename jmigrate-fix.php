@@ -10,14 +10,14 @@
  *
  * @wordpress-plugin
  * Plugin Name:       jMigrate Fix
- * Plugin URI:        https://github.com/girardmedia/dequeue-jquery-migrate
+ * Plugin URI:        https://github.com/girardmedia/jmigrate-fix
  * Description:       Remove the jquery-migrate.js script dependency.
  * Version:           1.0.0
- * Author:            Cedaro
- * Author URI:        http://www.cedaro.com/
+ * Author:            Girard Media
+ * Author URI:        https://girardmedia.com/
  * License:           GPL-2.0+
  * License URI:       http://www.gnu.org/licenses/gpl-2.0.html
- * GitHub Plugin URI: girardmedia/dequeue-jquery-migrate
+ * GitHub Plugin URI: girardmedia/jmigrate-fix
  */
 
 /**
